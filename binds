@@ -1,6 +1,6 @@
 
 
--==[GENERAL BINDS]==-
+-----------==[GENERAL BINDS]==-----------
 PHONE= ['F1']
 INVENTORY= ['F2']
 ANIMATIONS= ['F3']
@@ -14,7 +14,7 @@ PUSH TO TALK= ['N']
 CHANGE VOICE RANGE= ['SHIFT+H']
 CROUCH= ['CTRL']
 
--==[VEHICLE BINDS]==-
+-----------==[VEHICLE BINDS]==-----------
 HEADLIGHTS/HIGH-BEAMS= ['H']
 HORN/EMERGENCY-LIGHTS= ['E']
 SIRENS CONTROL= ['Q+ALT']
@@ -23,6 +23,6 @@ SPEED LIMITER= ['CAPSLOCK']
 SEAT BELT= ['B']
 AUTO CRUSE= ['Y']
 
--==[OCC/JOBS BIND]==-
+-----------==[OCC/JOBS BIND]==-----------
 INTERACTION MENU= ['F6']
 CHECK INVOICE= ['F7']

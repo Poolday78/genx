@@ -1,5 +1,82 @@
 
 
+-----------==[1/15/2020]==-----------
++ Released - GenerationX Launcher
+  - You can connect directly to the server.
+  - You can read the rules.
+  - You can read the latest changelogs.
+  - You can also goto the discord directly from our launcher.
+
++ Fixed - Property System
+  - Property Inventory is not fixed and working.
+
++ Changes - New Legal Weapons
+  - Carbine Rifle is now added to the server and is not blacklisted anymore.
+  - Compact Ak47 is now added to the server and is not blacklisted anymore.
+  - Assualt SMG is now added to the server and is not blacklisted anymore. 
+
++ Added - Clothing commands
+  - Now you can strip and put on clothes with chat commands
+  - /shirt to takeoff/put on your shirt.
+  - /pants to takeoff/put on your pants.
+  - /shoes to takeoff/put on your shoes.
+  - /hat to takeoff/puton your hat.
+  - /mask to takeoff/put on your mask.
+  - /neck to takeoff/put on your neck stuff.
+
++ Added - Pacific Bank Robbery
+  - New robbery has been added to the server main bank.
+  - You now need thermites to blow up the doors of pacific standard bank to rob it.
+  - You need a net cracker to hack inside the main vault to get the money.
+  - Main bank will be worth 400k of dirty cash.
+
++ Added - CAD System
+  - Police can now keep records of the arrests.
+  - If you have a record, it is going to be used against you in the courthouse.
+
++ Added - Courthouse
+  - Courthouse has been added next to garage B
+  - Courthouse will now have a judge.
+  - Police will take specific cases to the court, you can also use the court for your roleplay situations.
+  - Deathmatch should be avoided at the courthouse.
+
++ Changes - Police Station
+  - New Police station interior has been added to the server.
+
++ Added - Chat
+  - New better bubble chat has been added the server
+
++ Removed - Crab Job
+  - Removed crab job for sometime, will be added back after it is fixed.
+
++ Added - Better HUD 
+  - All the in-game HUDs have been updated to a better UI.
++ Added - Inventory & Inventory Icons
+  - The inventory has been changed to a better looking UI.
+  - The inventory icons have been changed to better icons.
+
++ Added - New Police Armory
+  - New Police armory has been added with better animations and loadout.
+
++ Added - Mining Job
+  - New Mining job has been added to the server.
+  - Blips will be on the map, you can go mining and sell your items afterwards.
+
++ Added - Loading screen
+  - Added a better loading screen to the server.
+  - Music has been added to the loading screen.
+
++ Added - Police Cameras
+  - Added Police Cameras where the police can use /cam 1-24 to access cameras around the city anywhere.
+
++ Changes - Car Dealership
+  - Car Dealership is shifted back to the old location.
+  - Better interior for the Car Dealership.
+
++ Changes - Hospital
+  - New hospital has been added to the server. 
+  - We have renamed the old hospital to Shaukat Khanum Hospital.
+  
 -----------==[12/23/2019]==-----------
 + Added - Uniforms
   - Added new uniforms for Police department.
